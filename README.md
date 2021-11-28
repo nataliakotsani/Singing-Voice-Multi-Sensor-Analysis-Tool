@@ -2,7 +2,6 @@
 
 Towards a Singing Voice Multi-Sensor Analysis Tool:
 System Design and Assessment Based on Vocal Breathiness
-
 Evangelos Angelakis, Natalia Kotsani, Anastasia Georgaki
 
 Singing voice is a human quality that requires the precise coordination of numerous kinetic functions and results in a perceptually variable auditory outcome. The use of multi-sensor systems can facilitate the study of correlations between the vocal mechanism kinetic functions and the voice output. This is directly relevant to vocal education, rehabilitation, and prevention of vocal health issues in educators; professionals; and students of singing, music, and acting.
